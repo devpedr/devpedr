@@ -1,7 +1,7 @@
 ### Olá! Eu sou Pedro Augusto! 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/p_edroaug?igshid=YmMyMTA2M2Y=)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-329a721a7/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroaugustodevbked/)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=devpedr&show_icons=true&theme=synthwave)
 
