@@ -1,9 +1,13 @@
+
+<h1>
+    <a href="https://github.com/devpedr">
+     <img align="center" alt="Logo" width="36px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
 <span>Pedro Augusto</span>
 </h1>
 
-<p align="justify">Tech Education Analyst at DIO, post graduating at Software Development with Agile Methodology. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
+<p align="justify">Graduando em Sistemas de informação. Primeiro contato com programção foi em sistemas industriais, utilizando tecnologia do PLC e programando em lingaguem Ladder. Meu maior hobbie é games e sair ao ar livre.
 <br>
- Passionate about arts and technology, some of my hobbies are games, watching, reading, and making cosplay accessories <a href="https://www.instagram.com/elicosmaker/">(@elicosmaker)</a>.</p>
+<a href="https://www.instagram.com/p_edroaug/">(@p_edroaug)</a>.</p>
 
 ### Connect with me
 
