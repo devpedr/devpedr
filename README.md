@@ -1,13 +1,12 @@
 
-<h1>
-    <a href="https://github.com/devpedr">
-     <img align="center" alt="Logo" width="36px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
-<span>Pedro Augusto</span>
-</h1>
+<code>System.out.println("Welcome to my github!😆")</code>
+<hr>
 
-<p align="justify">Graduando em Sistemas de informação. Primeiro contato com programção foi em sistemas industriais, utilizando tecnologia do PLC e programando em lingaguem Ladder. Meu maior hobbie é games e sair ao ar livre.
-<br>
-<a href="https://www.instagram.com/p_edroaug/">(@p_edroaug)</a>.</p>
+<p>💻 Electromechanical Technician at Atlas Schindler<p>
+<p>👨‍💻 Graduating in Information Systemst at University Center Una<p>
+<p>📚 Studing Java Language<p>
+<p>🎥 Networks Instagram <a href="https://www.instagram.com/p_edroaug/">(@p_edroaug)<p>
+
 
 ### Connect with me
 
@@ -17,5 +16,8 @@
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devpedr&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF0000&text_color=FFF&border_radius=3&border_color=FF0000&icon_color=FF0000&theme=jolly)
 
+### Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=java,git)](https://skillicons.dev)
 
 Apaixonado por tecnologia e sempre buscando me especializar mais 🚀💜.
+
