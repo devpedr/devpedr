@@ -3,7 +3,7 @@ Pedro Augusto!💻
 
 ### Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FF0000&color:FFF)](https://instagram.com/p_edroaug?igshid=YmMyMTA2M2Y=)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF0000&color:FFF)](https://instagram.com/p_edroaug?igshid=YmMyMTA2M2Y=)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color:FFF)](https://www.linkedin.com/in/pedroaugustodevbked/)
 
 ### GitHub Stats
