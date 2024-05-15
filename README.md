@@ -17,5 +17,5 @@
 ### Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=java,git)](https://skillicons.dev)
 
-Apaixonado por tecnologia e sempre buscando me especializar mais 🚀💜.
+Apaixonado por tecnologia e sempre buscando me especializar🚀🖥️.
 
