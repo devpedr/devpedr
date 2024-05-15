@@ -1,5 +1,10 @@
 
-<code>System.out.println("Welcome to my github!😆")</code>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FF0000&width=435&lines=Ola+!+Seja+bem-vindo+ao+meu+perfil+GitHub!;Prazer%2C+meu+nome+%C3%A9+Pedro+Augusto.)](https://git.io/typing-svg)
+
+
+
+
 <hr>
 
 <p>💻 Electromechanical Technician at Atlas Schindler<p>
