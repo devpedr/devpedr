@@ -1,17 +1,10 @@
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FF0000&width=435&lines=Ola+!+Seja+bem-vindo+ao+meu+perfil+GitHub!;Prazer%2C+meu+nome+%C3%A9+Pedro+Augusto.)](https://git.io/typing-svg)
-
-
-
-
 <hr>
 
 <p>💻 Electromechanical Technician at Atlas Schindler<p>
 <p>👨‍💻 Graduating in Information Systemst at University Center Una<p>
 <p>📚 Studing Java Language<p>
 <p>🎥 Networks Instagram <a href="https://www.instagram.com/p_edroaug/">(@p_edroaug)<p>
-
 
 ### Connect with me
 
