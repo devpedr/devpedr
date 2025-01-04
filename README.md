@@ -3,7 +3,7 @@
 
 <p>💻 Electromechanical Technician at Atlas Schindler<p>
 <p>👨‍💻 Graduating in Information Systemst at University Center Una<p>
-<p>📚 Studing Java Language|SQL|Git|GitHub<p>
+<p>📚 Studing Java Language| SQL | Git | GitHub<p>
 <p>🎥 Networks Instagram <a href="https://www.instagram.com/p_edroaug/">(@p_edroaug)<p>
 
 ### Connect with me
